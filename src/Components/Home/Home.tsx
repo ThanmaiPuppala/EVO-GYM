@@ -1,5 +1,5 @@
 
-import type { SelectedPage } from '../../shared/types'
+import { SelectedPage } from '../../shared/types'
 import HomePageText from '../../assets/HomePageText.png'
 import HomePageGraphic from '../../assets/HomePageGraphic.png'
 import SponsorRedBull from '../../assets/SponsorRedBull.png'

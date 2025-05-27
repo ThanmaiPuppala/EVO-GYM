@@ -1,5 +1,6 @@
 
-import type{ SelectedPage, ClassType } from '../../shared/types'
+import { SelectedPage } from '../../shared/types'
+import type { ClassType } from '../../shared/types'
 import image1 from '../../assets/image1.png'
 import image2 from '../../assets/image2.png'
 import image3 from '../../assets/image3.png'
