@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react"
 import Navbar from "./Components/navbar/Navbar"
-import { SelectedPage } from "./shared/types"
+import   { SelectedPage } from "./shared/types"
 import Home from "./Components/Home/Home"
 import Benefits from "./Components/Benefits/Benefits"
 import Classes from "./Components/OurClasses/Classes"

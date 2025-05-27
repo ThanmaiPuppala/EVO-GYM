@@ -1,5 +1,5 @@
-import React from 'react'
-import  { SelectedPage } from '../../shared/types';
+
+import type { SelectedPage } from '../../shared/types';
 import AnchorLink from 'react-anchor-link-smooth-scroll';
 import {motion} from 'framer-motion'
 

@@ -1,5 +1,5 @@
-import React from 'react'
-import { SelectedPage } from '../../shared/types'
+
+import type { SelectedPage } from '../../shared/types'
 import HomePageText from '../../assets/HomePageText.png'
 import HomePageGraphic from '../../assets/HomePageGraphic.png'
 import SponsorRedBull from '../../assets/SponsorRedBull.png'

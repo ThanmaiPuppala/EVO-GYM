@@ -1,5 +1,4 @@
-import { li } from 'framer-motion/client';
-import React from 'react'
+
 
 type Props = {
     name: string;
