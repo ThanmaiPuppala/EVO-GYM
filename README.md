@@ -35,7 +35,7 @@ A modern and responsive fitness website built with Vite, React, TypeScript, and 
 
 ## 🔧 Installation
 
-Clone the repository:
+Clone the repository:https://github.com/ThanmaiPuppala/EVO-GYM.git
 
 Install dependencies:npm install
 
