@@ -1,4 +1,4 @@
-#  Evo GYM
+#  EVO GYM
 
 A modern and responsive fitness website built with Vite, React, TypeScript, and Tailwind CSS. Evo Gym offers a sleek interface and dynamic features for showcasing fitness services, classes, and membership plans.
 
