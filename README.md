@@ -7,15 +7,18 @@ A modern and responsive fitness website built with Vite, React, TypeScript, and 
 ## Tech Stack 🚀
 
 - **Vite** – Fast development build tool
+  
 - **React** – Front-end UI library
+  
 - **TypeScript** – Typed JavaScript for improved development experience
+  
 - **Tailwind CSS** – Utility-first CSS framework
 
 ## Table of Contents📑
 
 - [Overview](#evo-gym)
 
-- [Tech Stack](#techstack)
+- [Tech Stack](#tech-stack)
 
 - [Features](#features)
 
