@@ -21,7 +21,7 @@ A modern and responsive fitness website built with Vite, React, TypeScript, and 
 
 - [License](#license)
 
-## 📌 Features
+## Features📌 
 
 - Mobile-first responsive layout
 
