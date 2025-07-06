@@ -4,14 +4,16 @@ A modern and responsive fitness website built with Vite, React, TypeScript, and 
 
 <img width="1314" alt="Screenshot 2025-05-28 at 12 54 38 AM" src="https://github.com/user-attachments/assets/ab6fb9df-dd59-448c-ab9d-6fac3c7e86f1" />
 
-## 🚀 Tech Stack
+## Tech Stack 🚀
 
 - **Vite** – Fast development build tool
 - **React** – Front-end UI library
 - **TypeScript** – Typed JavaScript for improved development experience
 - **Tailwind CSS** – Utility-first CSS framework
 
-## 📑 Table of Contents
+## Table of Contents📑
+
+-[Overview](#evo-gym)
 
 - [Tech Stack](#tech-stack)
 
@@ -33,7 +35,7 @@ A modern and responsive fitness website built with Vite, React, TypeScript, and 
 
 - Fast build and hot-reload with Vite
 
-## 🔧 Installation
+## Installation🔧
 
 Clone the repository:https://github.com/ThanmaiPuppala/EVO-GYM.git
 
@@ -41,6 +43,6 @@ Install dependencies:npm install
 
 Running the Application:npm run build
 
-## 📜 License
+##  License📜
 
 This project is licensed under the MIT License.Feel free to use and modify it.
