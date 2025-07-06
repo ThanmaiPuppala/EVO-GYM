@@ -13,13 +13,13 @@ A modern and responsive fitness website built with Vite, React, TypeScript, and 
 
 ## 📑 Table of Contents
 
-- [Tech Stack](##tech_stack)
+- [Tech Stack](#tech-stack)
 
-- [Features](##features)
+- [Features](#features)
 
-- [Installation](##installation)
+- [Installation](#installation)
 
-- [License](##license)
+- [License](#license)
 
 ## 📌 Features
 
