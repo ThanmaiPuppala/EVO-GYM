@@ -15,7 +15,7 @@ A modern and responsive fitness website built with Vite, React, TypeScript, and 
 
 - [Overview](#evo-gym)
 
-- [Tech Stack](#tech-stack)
+- [Tech Stack](#techstack)
 
 - [Features](#features)
 
