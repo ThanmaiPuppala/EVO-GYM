@@ -9,7 +9,6 @@ import useMediaQuery from '../../hooks/useMediaQuery'
 import ActionButton from '../../shared/ActionButton'
 import AnchorLink from 'react-anchor-link-smooth-scroll'
 import {motion} from 'framer-motion'
-import Link from './Link'
 type Props = {
     setSelectedPage:(value:SelectedPage)=>void
 }
@@ -53,7 +52,7 @@ const Home = ({setSelectedPage}: Props) => {
             visible:{opacity:1,x:0}
         }}
         className='mt-8 flex items-center gap-8 '>
-            <Link page='Contact'><ActionButton setSelectedPage={setSelectedPage}>Join Now</ActionButton></Link>
+            <ActionButton setSelectedPage={setSelectedPage}>Join Now</ActionButton>
             <AnchorLink className='text-sm font-bold text-[#FF6B66] underline hover:text-[#FFC132]'
             onClick={()=>setSelectedPage(SelectedPage.Contact)}
             href={`#${SelectedPage.Contact}`}
